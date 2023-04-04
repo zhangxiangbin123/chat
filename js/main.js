@@ -53,7 +53,7 @@
 
      var text = $('.write_box input').val(),
          str = '<div class="question">';
-     str += '<div class="heard_img right"><img src="http://www.jq22.com/img/cs/500x500-2.png"/></div>';
+     str += '<div class="heard_img right"><img src="http://www.jq22.com/img/cs/500x500-2.png" alt="请使用您的丑照" title = "真丑"/></div>';
      str += '<div class="question_text clear"><p>' + text + '</p><i></i>';
      str += '</div></div>';
 
