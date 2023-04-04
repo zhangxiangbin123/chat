@@ -69,7 +69,7 @@
          for_bottom();
          setTimeout(function() {
              var Benelen = Math.floor(Math.random() * 29);
-             var ans = '<div class="answer"><div class="heard_img left"><img src="http://www.jq22.com/img/cs/500x500-2.png"/></div>';
+             var ans = '<div class="answer"><div class="heard_img left"><img src="图片1.jpg"/></div>';
              ans += '<div class="answer_text"><p>' + Bene[Benelen] + '</p><i></i>';
              ans += '</div></div>';
              $('.speak_box').append(ans);
